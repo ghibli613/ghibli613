@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Giang</h1>
 <h3 align="center">A passionate researcher from Vietnam</h3>
 
-- 🌱 I’m currently learning **competitive programming and computational complexity theory**
+- 🌱 I’m currently learning **competitive programming and AI**
 
 - 📫 How to reach me **giang.buitruong.cs@gmail.com**
 
